@@ -4,4 +4,7 @@ Pour vous assurer que l'application Web fonctionne correctement, vous devez util
 
 Inscrivez le nom d'une ville dans le fichier json
 
-Voici l'apercu de la page web : https://jonathang-coder.github.io/Application-meteo-web/
+Voici l'apercu de la page web : 
+
+![image](https://github.com/JonathanG-coder/Application-meteo-web/assets/159537523/a936665a-8dac-48eb-bc0f-fc37f15dfc2e)
+
