@@ -1,10 +1,10 @@
-# 🌦️ Application Météo Web
+# Application Météo Web
 
 **Application Web simple pour vérifier l'état météorologique actuel.**
 
 ---
 
-### 📝 Description du projet
+### Description du projet
 
 Cette application Web vous permet de vérifier la météo actuelle d'une ville. Elle utilise l'**OpenWeatherMap API** pour récupérer les données météorologiques en temps réel.
 
@@ -12,7 +12,7 @@ Pour vous assurer que l'application fonctionne correctement, vous devez ajouter 
 
 ---
 
-### 📸 Aperçu de la page web
+### Aperçu de la page web
 
 Voici un aperçu de l'application en action, où vous pouvez visualiser les conditions météorologiques actuelles pour une ville.
 
